@@ -1,1 +1,2 @@
-# memo
+document.querySelector('#koredayo').requestFullscreen()
+↑でフルスク
